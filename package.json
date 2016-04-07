@@ -1,6 +1,6 @@
 {
   "name": "standart",
-  "version": "0.1.0",
+  "version": "6.0.0",
   "description": "A linter that helps make your code look like art that stand s on it's own",
   "main": "index.js",
   "bin": "./bin/standart",
