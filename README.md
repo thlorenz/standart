@@ -1,6 +1,6 @@
 # standart
 
-A linter that helps make your code look like art that stand s on it's own
+A linter that helps make your code look like _art_ that _stand_ s on it's own
 
 [standard](https://github.com/feross/standard) with a few exceptions, most importantly:
 
@@ -37,10 +37,10 @@ Just like in `standard`, The paths `node_modules/**`, `*.min.js`, `bundle.js`, `
 automatically excluded when looking for `.js` files to check.
 
 Sometimes you need to ignore additional folders or specific minfied files. To do that, add
-a `semistandard.ignore` property to `package.json`:
+a `standart.ignore` property to `package.json`:
 
 ```json
-"semistandard": {
+"standart": {
   "ignore": [
     "**/out/",
     "/lib/select2/",
