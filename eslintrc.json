@@ -1,1 +1,1 @@
-{ "extends": [ "standart", "standard-react"] }
+{ "extends": [ "standart", "standard-jsx"] }
